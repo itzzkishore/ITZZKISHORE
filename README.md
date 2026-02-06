@@ -52,16 +52,15 @@
 
 ## 📊 GitHub Stats
 
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITZZKISHORE&show_icons=true&theme=radical)
+![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzzkishore&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITZZKISHORE&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzzkishore&layout=compact)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ITZZKISHORE&color=blue)
 
 ---
 
-## ✨ Fun Fact
-I believe every innovation starts with curiosity and a willingness to experiment!
+⭐ Thanks for visiting my profile!
 
 <!--
 **itzzkishore/ITZZKISHORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
