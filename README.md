@@ -53,6 +53,8 @@
 ## 📊 GitHub Stats
 ![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITZZKISHORE&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITZZKISHORE&layout=compact&theme=radical)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=ITZZKISHORE&color=blue)
 
 ---
