@@ -18,6 +18,11 @@
 - 🔋 **Portable Power Mixer** (Patent App.No: 202441017998) – Developed a solar-powered portable mixer for off-grid usage.  
 - ☀️ **Sun Sync - Non-Electrical Solar Tracker** – Mechanical solar tracker using thermal expansion principles.  
 - 🤖 **Fit4U - AI Fitness Chatbot** – Built an AI chatbot providing personalized fitness guidance.  
+## 📌 Featured Projects
+- ⚡ [ADC Based Fuel Indicator](#) – Digital fuel indicator using microcontroller & ultrasonic sensor *(Patent App.No: 202341014141)*  
+- 🔋 [Portable Power Mixer](#) – Solar-powered portable mixer for off-grid usage *(Patent App.No: 202441017998)*  
+- ☀️ [Sun Sync - Non-Electrical Solar Tracker](#) – Mechanical solar tracker using thermal expansion principles  
+- 🤖 [Fit4U - AI Fitness Chatbot](#) – AI chatbot providing personalized fitness guidance  
 
 ---
 
@@ -28,10 +33,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🛠️ Skills & Tools
 - **Core Electrical Engineering**: Power Systems, Electrical Machines, Circuit Analysis  
 - **Embedded Systems & IoT**: Arduino, Raspberry Pi, IoT Sensors  
 - **Programming**: C++, Python, OOP Basics  
@@ -51,14 +52,6 @@
 - 🖨️ 3D Printing – Vaayusasthra Aerospace  
 - 🔧 Reverse Engineering – Vaayusasthra Aerospace  
 - 🤖 Robotics – Techentive Academy  
-
----
-
-## 📌 Featured Projects
-- ⚡ [ADC Based Fuel Indicator](#) – Digital fuel indicator using microcontroller & ultrasonic sensor *(Patent App.No: 202341014141)*  
-- 🔋 [Portable Power Mixer](#) – Solar-powered portable mixer for off-grid usage *(Patent App.No: 202441017998)*  
-- ☀️ [Sun Sync - Non-Electrical Solar Tracker](#) – Mechanical solar tracker using thermal expansion principles  
-- 🤖 [Fit4U - AI Fitness Chatbot](#) – AI chatbot providing personalized fitness guidance  
 
 ---
 
