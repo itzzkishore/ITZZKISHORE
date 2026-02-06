@@ -14,15 +14,10 @@
 ---
 
 ## 🔬 Academic & Technical Projects
-- ⚡ **ADC Based Fuel Indicator** (Patent App.No: 202341014141) – Designed a digital fuel indicator using microcontroller & ultrasonic sensor.  
-- 🔋 **Portable Power Mixer** (Patent App.No: 202441017998) – Developed a solar-powered portable mixer for off-grid usage.  
-- ☀️ **Sun Sync - Non-Electrical Solar Tracker** – Mechanical solar tracker using thermal expansion principles.  
-- 🤖 **Fit4U - AI Fitness Chatbot** – Built an AI chatbot providing personalized fitness guidance.  
-## 📌 Featured Projects
-- ⚡ [ADC Based Fuel Indicator](#) – Digital fuel indicator using microcontroller & ultrasonic sensor *(Patent App.No: 202341014141)*  
-- 🔋 [Portable Power Mixer](#) – Solar-powered portable mixer for off-grid usage *(Patent App.No: 202441017998)*  
-- ☀️ [Sun Sync - Non-Electrical Solar Tracker](#) – Mechanical solar tracker using thermal expansion principles  
-- 🤖 [Fit4U - AI Fitness Chatbot](#) – AI chatbot providing personalized fitness guidance  
+- ⚡ [ADC Based Fuel Indicator](#) (Patent App.No: 202341014141) – Designed a digital fuel indicator using microcontroller & ultrasonic sensor.  
+- 🔋 [Portable Power Mixer](#) (Patent App.No: 202441017998) – Developed a solar-powered portable mixer for off-grid usage.  
+- ☀️ [Sun Sync - Non-Electrical Solar Tracker](#) – Mechanical solar tracker using thermal expansion principles.  
+- 🤖 [Fit4U - AI Fitness Chatbot](#) – Built an AI chatbot providing personalized fitness guidance.    
 
 ---
 
