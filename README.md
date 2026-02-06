@@ -7,11 +7,27 @@
 
 ---
 
+## 📫 Connect With Me
+[![Email](https://img.shields.io/badge/Email-kishorekumar.eee08%40gmail.com-red?style=flat&logo=gmail)](mailto:kishorekumar.eee08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kishorekumar--eee-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kishorekumar-eee)
+
+---
+
 ## 🔬 Academic & Technical Projects
 - ⚡ **ADC Based Fuel Indicator** (Patent App.No: 202341014141) – Designed a digital fuel indicator using microcontroller & ultrasonic sensor.  
 - 🔋 **Portable Power Mixer** (Patent App.No: 202441017998) – Developed a solar-powered portable mixer for off-grid usage.  
 - ☀️ **Sun Sync - Non-Electrical Solar Tracker** – Mechanical solar tracker using thermal expansion principles.  
 - 🤖 **Fit4U - AI Fitness Chatbot** – Built an AI chatbot providing personalized fitness guidance.  
+
+---
+
+## 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -38,8 +54,18 @@
 
 ---
 
+## 📌 Featured Projects
+- ⚡ [ADC Based Fuel Indicator](#) – Digital fuel indicator using microcontroller & ultrasonic sensor *(Patent App.No: 202341014141)*  
+- 🔋 [Portable Power Mixer](#) – Solar-powered portable mixer for off-grid usage *(Patent App.No: 202441017998)*  
+- ☀️ [Sun Sync - Non-Electrical Solar Tracker](#) – Mechanical solar tracker using thermal expansion principles  
+- 🤖 [Fit4U - AI Fitness Chatbot](#) – AI chatbot providing personalized fitness guidance  
+
+---
+
 ## 📊 GitHub Stats
 ![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITZZKISHORE&show_icons=true&theme=radical)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ITZZKISHORE&color=blue)
 
 ---
 
