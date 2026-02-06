@@ -14,7 +14,7 @@
 ---
 
 ## 🔬 Academic & Technical Projects
-- ⚡ [ADC Based Fuel Indicator](#) (Patent App.No: 202341014141) – Designed a digital fuel indicator using microcontroller & ultrasonic sensor.  
+- ⚡ [ADC Based Fuel Indicator](https://github.com/itzzkishore/ADC-Fuel-Indicator) (Patent App.No: 202341014141) – Designed a digital fuel indicator using microcontroller & ultrasonic sensor.  
 - 🔋 [Portable Power Mixer](#) (Patent App.No: 202441017998) – Developed a solar-powered portable mixer for off-grid usage.  
 - ☀️ [Sun Sync - Non-Electrical Solar Tracker](#) – Mechanical solar tracker using thermal expansion principles.  
 - 🤖 [Fit4U - AI Fitness Chatbot](#) – Built an AI chatbot providing personalized fitness guidance.    
