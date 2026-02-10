@@ -48,14 +48,6 @@
 - 🔧 Reverse Engineering – Vaayusasthra Aerospace  
 - 🤖 Robotics – Techentive Academy  
 
----
-
-## 📊 GitHub Stats
-
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzzkishore&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzzkishore&layout=compact)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=ITZZKISHORE&color=blue)
 
 ---
